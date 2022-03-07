@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShipApp</string>
+    <string name="send">SEND</string>
+    <string name="selected_photo">Выбранные фотографии</string>
+</resources>
